@@ -1,0 +1,16 @@
+*~
+/paper/*.aux
+/paper/*.log
+/paper/*.bbl
+/paper/*.blg
+/paper/*.brf
+/paper/*.cb
+/paper/*.ind
+/paper/*.idx
+/paper/*.ilg
+/paper/*.inx
+/paper/*.toc
+/paper/*.out
+/paper/template.dvi
+/paper/template.ps
+/paper/template.pdf
