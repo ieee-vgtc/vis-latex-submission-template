@@ -1,4 +1,4 @@
 # Repo archived
 
-Please visit https://github.com/ieeevgtc/vgtc_conference_latex/releases for the latest template.
+Please visit https://tc.computer.org/vgtc/publications/conference/ and https://tc.computer.org/vgtc/publications/journal/ for the latest templates.
 
